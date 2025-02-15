@@ -32,5 +32,3 @@ docker-compose.override.yml
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
- Ignore training logs and runs
-runs/
